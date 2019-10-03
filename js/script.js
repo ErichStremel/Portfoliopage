@@ -1,4 +1,7 @@
-// when document is ready, load this code
+// when document is ready, load the slider
 $(document).ready(function(){
-    $('#slides').superslides()
+    $('#slides').superslides({
+        animation: 'fade',
+        play: 4000, 
+    })
 });
