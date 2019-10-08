@@ -96,7 +96,7 @@ body {
 
 .squareInnerContainer {
     position: relative;
-    padding: 50px 15px 35px;
+    padding: 40px 15px 40px;
     text-align: center;
     border: 2px solid #444;
     border-top: none;
@@ -120,14 +120,14 @@ body {
 }
 
 .squareContent h2 {
-    font-size: 56px;
+    font-size: 75px;
     margin-bottom: 10px;
     font-weight: 400;
     color: #636e72
 }
 
 .squareContent h3 {
-    font-size: 13px;
+    font-size: 18px;
     font-weight: 600;
     margin: 0;
 }
